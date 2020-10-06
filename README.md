@@ -1,2 +1,2 @@
 # wagtail
-Wagtail Content Management System
+Wagtail Content Management System Sample Project
